@@ -7,7 +7,7 @@ The **python-can** library provides controller area network support for
 different hardware devices, and a suite of utilities for sending and receiving
 messages on a can bus.
 
-**python-can** runs any where Python runs; from high powered computers
+**python-can** runs anywhere Python runs; from high powered computers
 with commercial `can to usb` devices right down to low powered devices running
 linux such as a BeagleBone or RaspberryPi.
 
